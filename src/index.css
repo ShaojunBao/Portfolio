@@ -1,11 +1,20 @@
-*{
+* {
   margin: 0;
   padding: 0;
+  box-sizing: border-box;
+
 }
 
-body{
+body {
   height: 100vh;
-  background: #0a0a0a ;
+  background: #0a0a0a;
   color: white;
   font-family: 'outfit';
-}  
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 40px;
+  width: 100%;
+}

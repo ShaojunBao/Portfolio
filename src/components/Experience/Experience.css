@@ -1,0 +1,54 @@
+.experience {
+  padding: 80px 40px;
+  color: white;
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
+.experience h1 {
+  font-size: 48px;
+  text-align: center;
+  margin-bottom: 40px;
+  background: linear-gradient(267deg, #DA7C25 0.36%, #B923E1 106%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.experience-card {
+  margin-bottom: 50px;
+  background-color: #1a1a1a;
+  padding: 30px;
+  border-radius: 12px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.2);
+}
+
+.experience-card h2 {
+  margin-bottom: 5px;
+  font-size: 22px;
+  color: #DA7C25;
+}
+
+.experience-card .period {
+  font-style: italic;
+  margin-bottom: 10px;
+  color: #ccc;
+}
+
+.experience-card h3 {
+  font-size: 20px;
+  margin: 10px 0;
+}
+
+.experience-card .summary {
+  margin-bottom: 12px;
+  color: #ccc;
+}
+
+.experience-card ul {
+  padding-left: 20px;
+}
+
+.experience-card li {
+  margin-bottom: 8px;
+  line-height: 1.6;
+}

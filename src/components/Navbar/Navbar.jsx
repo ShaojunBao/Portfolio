@@ -14,6 +14,9 @@ const Navbar = () => {
         <li>
           <Link to="/about">About Me</Link>
         </li>
+        <li>
+          <Link to="/experience">My Experience</Link>
+        </li>
       </ul>
       <Link to="/contact" className="nav-connect">
         Connect With Me

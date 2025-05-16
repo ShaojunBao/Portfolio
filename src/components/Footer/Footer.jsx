@@ -18,7 +18,7 @@ const Footer = () => {
             </div>
             <div className="footer-detail">
               <img src={call_icon} width={24} alt="phone" />
-              <span>+1 515-218-2313</span>
+              <span>+1 515-679-0309</span>
             </div>
             <div className="footer-detail">
               <img src={location_icon} width={24} alt="location" />
